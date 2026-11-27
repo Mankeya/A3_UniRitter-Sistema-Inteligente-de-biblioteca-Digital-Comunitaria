@@ -1,0 +1,40 @@
+[
+    {
+        "tipo": "Leitor",
+        "id": 1,
+        "nome": "Maria Silva",
+        "cpf": "52998224725",
+        "email": "maria@email.com",
+        "senha_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "consentimento": {
+            "aceito": true,
+            "data_consentimento": "25/11/2026 19:43:33",
+            "finalidades": [
+                "cadastro e autenticacao",
+                "controle de emprestimos e reservas",
+                "recomendacao de materiais"
+            ]
+        },
+        "data_nascimento": "15/05/2000",
+        "limite_emprestimos": 2
+    },
+    {
+        "tipo": "Leitor",
+        "id": 2,
+        "nome": "Joao Souza",
+        "cpf": "11144477735",
+        "email": "joao@email.com",
+        "senha_hash": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589",
+        "consentimento": {
+            "aceito": true,
+            "data_consentimento": "25/11/2026 19:43:33",
+            "finalidades": [
+                "cadastro e autenticacao",
+                "controle de emprestimos e reservas",
+                "recomendacao de materiais"
+            ]
+        },
+        "data_nascimento": "20/10/1995",
+        "limite_emprestimos": 3
+    }
+]
