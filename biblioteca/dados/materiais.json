@@ -1,0 +1,43 @@
+[
+    {
+        "tipo": "Livro Fisico",
+        "id": 1,
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "total_exemplares": 1,
+        "exemplares_disponiveis": 1,
+        "total_emprestimos": 1,
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "comentario": "Livro classico, excelente leitura."
+            }
+        ],
+        "isbn": "9788535914566"
+    },
+    {
+        "tipo": "Livro Digital",
+        "id": 2,
+        "titulo": "O Cortico",
+        "autor": "Aluisio Azevedo",
+        "total_exemplares": 1,
+        "exemplares_disponiveis": 1,
+        "total_emprestimos": 0,
+        "avaliacoes": [],
+        "isbn": "9788508072345",
+        "tamanho_mb": 2.5,
+        "formato": "PDF"
+    },
+    {
+        "tipo": "Revista",
+        "id": 3,
+        "titulo": "Revista Ciencia Hoje",
+        "autor": "N/A",
+        "total_exemplares": 1,
+        "exemplares_disponiveis": 1,
+        "total_emprestimos": 0,
+        "avaliacoes": [],
+        "issn": "12345678",
+        "edicao": "Ed. 50"
+    }
+]

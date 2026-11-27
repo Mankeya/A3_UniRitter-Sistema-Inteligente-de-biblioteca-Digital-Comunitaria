@@ -1,0 +1,134 @@
+[
+    {
+        "data_hora": "25/11/2026 19:43:33",
+        "acao": "Sistema iniciado",
+        "usuario": "-",
+        "detalhe": "Menu principal"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:33",
+        "acao": "Cadastro de usuario",
+        "usuario": "52998224725",
+        "detalhe": "Leitor: Maria Silva"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:33",
+        "acao": "Cadastro de usuario",
+        "usuario": "11144477735",
+        "detalhe": "Leitor: Joao Souza"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:33",
+        "acao": "Cadastro de material",
+        "usuario": "-",
+        "detalhe": "Livro Fisico: Dom Casmurro"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:33",
+        "acao": "Cadastro de material",
+        "usuario": "-",
+        "detalhe": "Livro Digital: O Cortico"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:33",
+        "acao": "Cadastro de material",
+        "usuario": "-",
+        "detalhe": "Revista: Revista Ciencia Hoje"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:34",
+        "acao": "Emprestimo",
+        "usuario": "52998224725",
+        "detalhe": "Material 1 - Dom Casmurro"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:34",
+        "acao": "Reserva",
+        "usuario": "11144477735",
+        "detalhe": "Material 1 - Dom Casmurro"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:34",
+        "acao": "Devolucao",
+        "usuario": "52998224725",
+        "detalhe": "Material 1 - Dom Casmurro"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:34",
+        "acao": "Avaliacao",
+        "usuario": "52998224725",
+        "detalhe": "Material 1 - nota 5"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:34",
+        "acao": "Relatorio de uso",
+        "usuario": "-",
+        "detalhe": "Relatorio LGPD gerado"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:34",
+        "acao": "Sistema encerrado",
+        "usuario": "-",
+        "detalhe": "Opcao 0"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:41",
+        "acao": "Sistema iniciado",
+        "usuario": "-",
+        "detalhe": "Menu principal"
+    },
+    {
+        "data_hora": "25/11/2026 19:43:41",
+        "acao": "Sistema encerrado",
+        "usuario": "-",
+        "detalhe": "Opcao 0"
+    },
+    {
+        "data_hora": "25/11/2026 19:46:59",
+        "acao": "Sistema iniciado",
+        "usuario": "-",
+        "detalhe": "Menu principal"
+    },
+    {
+        "data_hora": "25/11/2026 19:46:59",
+        "acao": "Sistema encerrado",
+        "usuario": "-",
+        "detalhe": "Opcao 0"
+    },
+    {
+        "data_hora": "25/11/2026 19:46:59",
+        "acao": "Sistema iniciado",
+        "usuario": "-",
+        "detalhe": "Menu principal"
+    },
+    {
+        "data_hora": "25/11/2026 19:46:59",
+        "acao": "Sistema encerrado",
+        "usuario": "-",
+        "detalhe": "Opcao 0"
+    },
+    {
+        "data_hora": "25/11/2026 19:47:33",
+        "acao": "Sistema iniciado",
+        "usuario": "-",
+        "detalhe": "Menu principal"
+    },
+    {
+        "data_hora": "25/11/2026 19:47:33",
+        "acao": "Sistema encerrado",
+        "usuario": "-",
+        "detalhe": "Opcao 0"
+    },
+    {
+        "data_hora": "25/11/2026 19:48:08",
+        "acao": "Sistema iniciado",
+        "usuario": "-",
+        "detalhe": "Menu principal"
+    },
+    {
+        "data_hora": "25/11/2026 19:48:19",
+        "acao": "Relatorio de uso",
+        "usuario": "-",
+        "detalhe": "Relatorio LGPD gerado"
+    }
+]
