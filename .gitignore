@@ -1,0 +1,11 @@
+# Dependencias / artefatos de IDE e build
+.idea/
+out/
+*.iml
+
+# Cache de bytecode Python
+__pycache__/
+*.py[cod]
+
+# Material da disciplina (enunciado) — fora do repositorio
+Exercicio_Integrador.pdf
